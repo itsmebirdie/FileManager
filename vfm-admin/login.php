@@ -1,16 +1,5 @@
 <?php
-/**
- * VFM - veno file manager administration login
- *
- * PHP version >= 5.3
- *
- * @category  PHP
- * @package   VenoFileManager
- * @author    Nicola Franchini <info@veno.it>
- * @copyright 2013 Nicola Franchini
- * @license   Regular License http://codecanyon.net/licenses/regular
- * @link      http://filemanager.veno.it/
- */
+
 define('VFM_APP', true);
 
 if (!file_exists('config.php')) {
