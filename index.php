@@ -1,15 +1,15 @@
 <?php
 /**
- * VFM - veno file manager index
+ * File Manager
  *
  * PHP version >= 5.3
  *
  * @category  PHP
- * @package   VenoFileManager
- * @author    Nicola Franchini <info@veno.it>
- * @copyright 2013 Nicola Franchini
- * @license   Exclusively sold on CodeCanyon: https://codecanyon.net/item/veno-file-manager-host-and-share-files/6114247
- * @link      http://filemanager.veno.it/
+ * @package   FilemanagerByMaanasNair
+ * @author    Maanas Nair <hello@maanasnair.in>
+ * @copyright 2020 Maanas Nair
+ * @license   GNU General Public licence
+ * @link      http://maanasnair.in
  */
 define('VFM_APP', true);
 require_once 'vfm-admin/include/head.php';
